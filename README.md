@@ -13,8 +13,8 @@ Linguagens: Python,JavaScript
 
 
 🌐 Conecte-se comigo
-LinkedIn: www.linkedin.com/in/
-luizhenriqueradaeli
+LinkedIn: https://www.linkedin.com/in/luizhenriqueradaeli
+
 
 
 
